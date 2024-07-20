@@ -2,7 +2,7 @@
 
 Welcome to the Netflix Clone project!
 
-![Netflix Clone]![image](https://github.com/user-attachments/assets/42f12710-896b-4df2-a520-a340d3a064b7)
+![image](https://github.com/user-attachments/assets/42f12710-896b-4df2-a520-a340d3a064b7)
 
 
 ## Technologies Used
