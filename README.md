@@ -25,9 +25,18 @@ Feel free to submit issues or pull requests. Contributions are welcome!
 
    ```bash
    git checkout -b feature-branch
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-branch).
-Create a new Pull Request.
+3.Commit your changes:
 
-Contact
+      ```bash
+      git commit -am 'Add new feature
+      
+4.Push to the branch:
+
+     ```bash
+      git push origin feature-branch
+
+5.Create a new Pull Request.
+
+
+#Contact
 For questions or feedback, please reach out to:abhikappana@gmail.com
