@@ -24,7 +24,7 @@ Feel free to submit issues or pull requests. Contributions are welcome!
 2. Create a new branch:
 
    ```bash
-   git checkout -b feature-branch
+      git checkout -b feature-branch
    
 3.Commit your changes:
 
@@ -38,4 +38,4 @@ Feel free to submit issues or pull requests. Contributions are welcome!
 
 
 #Contact
-For questions or feedback, please reach out to:abhikappana@gmail.com
+For questions or feedback, please reach out to: abhikappana@gmail.com
