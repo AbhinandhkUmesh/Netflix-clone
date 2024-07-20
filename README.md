@@ -25,14 +25,13 @@ Feel free to submit issues or pull requests. Contributions are welcome!
 
    ```bash
    git checkout -b feature-branch
+   
 3.Commit your changes:
 
-      ```bash
       git commit -am 'Add new feature
       
 4.Push to the branch:
 
-     ```bash
       git push origin feature-branch
 
 5.Create a new Pull Request.
