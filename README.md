@@ -12,7 +12,7 @@ Welcome to the Netflix Clone project!
 
 ## Access the App
 
-You can view the frontend of the app by visiting: [Netflix Clone](https://abhikappana.github.io/Netflix-clone/)
+You can view the frontend of the app by visiting: [Netflix Clone](https://AbhinandhkUmesh.github.io/Netflix-clone/)
 
 ## Contributing
 
